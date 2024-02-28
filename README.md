@@ -1,2 +1,2 @@
 # Nike
-sugu-nike.netlify.app
+https://sugu-nike.netlify.app/
